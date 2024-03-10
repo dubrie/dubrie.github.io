@@ -1,6 +1,7 @@
 # Home
 
 A collection of various data around my public personna
+[![pages-build-deployment](https://github.com/dubrie/dubrie.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/dubrie/dubrie.github.io/actions/workflows/pages/pages-build-deployment)
 
 * [Tenets](tenets.md) - How I'm living life
 * [Thoughts](thoughts.md) - Things I'm saying
