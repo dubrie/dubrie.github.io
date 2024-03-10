@@ -1,0 +1,21 @@
+site_name: dubrie.io
+site_url: https://dubrie.github.io
+site_author: dubrie
+site_description: A collection of various data around my public personna
+
+theme:
+  name: null
+  custom_dir: 'cinder'
+  disable_nav_previous_next: true
+  
+
+repo_url: "https://github.com/dubrie/dubrie.github.io"
+
+nav: 
+  - Home: index.md
+  - Tenets: tenets.md
+  - Thoughts: thoughts.md
+  - Books: books.md
+  - Running: running.md
+  - Travel: travel.md
+
