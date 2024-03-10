@@ -11,6 +11,9 @@ theme:
 
 repo_url: "https://github.com/dubrie/dubrie.github.io"
 
+permissions:
+  contents: write
+
 nav: 
   - Home: index.md
   - Tenets: tenets.md
