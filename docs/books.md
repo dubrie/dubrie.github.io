@@ -1,6 +1,7 @@
 # Books
 
 ## Active Books
+- Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig
 
 ## Up Next
 - The Human Element by Loran Nordgren  
