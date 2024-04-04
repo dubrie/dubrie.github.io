@@ -1,7 +1,6 @@
 # Books
 
 ## Active Books
-- Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -46,6 +45,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### 2024
 - The Science of Storytelling by Will Storr (Issue with retrieving highlights, will update once that is resolved) 
+- [Master of Change](archive/books/master-of-change.md): How to Excel When Everything Is Changing – Including You by Brad Stulberg
 
 
 ### 2023
