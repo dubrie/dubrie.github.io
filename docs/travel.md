@@ -6,7 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
-- Boston, Massachusettes
 - Santa Fe, New Mexico
 - Indianapolis, Indiana
 - Sydney, Australia
