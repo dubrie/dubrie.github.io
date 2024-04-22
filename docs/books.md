@@ -1,6 +1,7 @@
 # Books
 
 ## Active Books
+- Slow Burn: The Hidden Costs of a Warming World by R. Jisung Park
 - Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig
 
 ## Up Next
