@@ -1,7 +1,6 @@
 # Books
 
 ## Active Books
-- Slow Burn: The Hidden Costs of a Warming World by R. Jisung Park
 - Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig
 
 ## Up Next
@@ -46,6 +45,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2024
+- [Slow Burn: The Hidden Costs of a Warming World](archive/books/slow-burn.md) by R. Jisung Park 👍
 - The Science of Storytelling by Will Storr (Issue with retrieving highlights, will update once that is resolved) 
 - [Master of Change](archive/books/master-of-change.md): How to Excel When Everything Is Changing – Including You by Brad Stulberg 👍⭐
 
