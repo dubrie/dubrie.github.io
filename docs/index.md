@@ -13,6 +13,7 @@ A collection of various data around my public personna
 [![pages-build-deployment](https://github.com/dubrie/dubrie.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/dubrie/dubrie.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Recent Updates
+* Finished reading [Slow Burn](archive/books/slow-burn.md)
 * Updated 2024 [travel destinations](travel.md)
 * Started reading Slow Burn: The Hidden Costs of a Warming World
 * Started reading Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
