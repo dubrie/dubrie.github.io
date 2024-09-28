@@ -6,6 +6,7 @@
 
 
 ## Marathons
+- [2024 Sydney Marathon](https://www.multisportaustralia.com.au/races/sydney-marathon-2024/events/1/results/individuals/2735)\* - 3:11:09
 - **[2023 Boston Marathon](https://results.baa.org/2023/?content=detail&fpid=search&pid=search&idp=9TGHS6FF182A26&lang=EN_CAP&event=R&event_main_group=runner&pidp=favorites&search%5Bstart_no%5D=1403&search_event=R)\* - 2:43:53**
 - [2023 Tokyo Marathon](https://www.marathon.tokyo/2023/result/detail.php)\* - 2:51:47
 - 2022 Starvation XTri (Pacing on run portion only)  
@@ -24,7 +25,7 @@
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
 - [2007 Chicago Marathon](http://chicago-history.r.mikatiming.de/2015/?content=detail&fpid=search&pid=search&idp=0000170E9A9236000011F147&lang=EN_CAP&event=MAR_9999990E9A92360000000052&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=ALL_EVENT_GROUP_2007) - 4:16:49
 
-\* - Boston Marathon Qualification
+\* - Boston Marathon Qualification Time
 
 ## 22 miles
 
