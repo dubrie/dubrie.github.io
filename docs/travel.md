@@ -6,11 +6,10 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
-- Santa Fe, New Mexico
-- Indianapolis, Indiana
-- Sydney, Australia
-- Coles Bay, Australia
 - Kona, Hawaii
+
+### 2025
+- Burbank, California
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
@@ -33,6 +32,9 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 - Netherlands
 - Switzerland
 - United Kingdom
+
+### Oceania
+- Australia
 
 ### North America
 - Canada (British Columbia, Alberta, Ontario, Quebec) 
