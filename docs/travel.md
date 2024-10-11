@@ -6,7 +6,7 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
-- Denver,Colorado
+- Denver, Colorado
 - Kona, Hawaii
 - Vancouver, Canada
 
