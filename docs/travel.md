@@ -6,10 +6,13 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
+- Denver,Colorado
 - Kona, Hawaii
+- Vancouver, Canada
 
 ### 2025
 - Burbank, California
+- Bend, Oregon
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
