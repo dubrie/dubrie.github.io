@@ -1,6 +1,9 @@
 # Links
 A link farm of stuff I want to keep around for various reasons
 
+## Planning and Strategic Concepts
+- [Cone of uncertainty](https://www.construx.com/books/the-cone-of-uncertainty/)
+
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
 - [How Figma migrated to Kubernetes](https://blog.quastor.org/p/how-figma-migrated-to-kubernetes-a9da)
