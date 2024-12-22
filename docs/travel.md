@@ -6,12 +6,11 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
-- Denver, Colorado
-- Kona, Hawaii
 - Vancouver, Canada
 
 ### 2025
 - Burbank, California
+- Palm Springs, California
 - Ann Arbor, Michigan
 - Bend, Oregon
 - Denver, Colorado
