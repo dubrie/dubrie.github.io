@@ -14,3 +14,9 @@ A link farm of stuff I want to keep around for various reasons
 
 ## Writing
 - [From Code to Words: How to Write Well for Software Engineers](https://strategizeyourcareer.com/p/from-code-to-words-how-to-write-well)
+
+## Recipes
+- [Birria Tacos](https://iamafoodblog.com/birria-tacos-recipe/)
+- [Homemade Ginger Ale](https://feastandwest.com/homemade-ginger-ale/)
+- [Homemade Bagels](https://www.seriouseats.com/how-to-make-homemade-bagels-a-la-jo-goldenberg-recipe)
+- [Walnut Cranberry Ginger Power Bars](https://www.thekitchn.com/weekend-snack-diy-power-bars-144235)
