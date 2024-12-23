@@ -11,7 +11,10 @@ A link farm of stuff I want to keep around for various reasons
 - [How Duolingo Reduced Cloud Spend 20%](https://blog.duolingo.com/reducing-cloud-spending/)
 - [Strategy against distractions in an open office](https://strategizeyourcareer.com/p/my-strategy-against-distractions)
 - [How Robinhood uses graph algorithms to prevent fraud](https://blog.quastor.org/p/how-robinhood-uses-graph-algorithms-to-prevent-fraud-297f)
+- [3L - Advice For Newly Hired Technical Leaders](https://blog.alexewerlof.com/p/3l?publication_id=1002265&post_id=142259629&isFreemail=true&r=6vml7&triedRedirect=true)
+- [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?publication_id=458709&post_id=144397424&isFreemail=true&r=6vml7&triedRedirect=true)
 
+  
 ## Writing
 - [From Code to Words: How to Write Well for Software Engineers](https://strategizeyourcareer.com/p/from-code-to-words-how-to-write-well)
 
@@ -20,3 +23,4 @@ A link farm of stuff I want to keep around for various reasons
 - [Homemade Ginger Ale](https://feastandwest.com/homemade-ginger-ale/)
 - [Homemade Bagels](https://www.seriouseats.com/how-to-make-homemade-bagels-a-la-jo-goldenberg-recipe)
 - [Walnut Cranberry Ginger Power Bars](https://www.thekitchn.com/weekend-snack-diy-power-bars-144235)
+- [Bacon Butternut Pasta](http://healthyharvestfarmcsa.com/documents/recipes/bacon-and-butternut-pasta.pdf)
