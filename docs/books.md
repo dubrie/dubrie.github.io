@@ -1,6 +1,7 @@
 # Books
 
 ## Active Books
+- Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness by Joshua Wolf Shenk
 
 ## Up Next
 - The Human Element by Loran Nordgren  
