@@ -1,7 +1,9 @@
 # Books
 
 ## Active Books
-- Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness by Joshua Wolf Shenk
+- We Need To Hang Out: A Memoir Of Making Friends by Billy Baker
+- An Elegant Puzzle: Systems of Engineering Management by Will Larson
+
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -43,6 +45,9 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ## Finished Books
+
+### 2025
+- [Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness](archive/books/lincolns-melancholy.md) by Joshua Wolf Shenk 👍
 
 ### 2024
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values](archive/books/zen-and-the-art-of-motorcycle-maintenance.md) by Robert M. Pirsig

@@ -14,6 +14,9 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Started re-reading An Elegant Puzzle
+* Started reading We Need To Hang Out
+* Finished reading [Lincoln's Melancholy](archive/books/lincolns-melancholy.md)
 * Finished reading [Zen and the Art of Motorcycle Maintenance](archive/books/zen-and-the-art-of-motorcycle-maintenance.md)
 * Added a [LinkFarm](links.md) page
 * Won the [North Bend Trailfest Little Si 10k](running.md) 
