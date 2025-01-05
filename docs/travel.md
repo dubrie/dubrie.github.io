@@ -5,9 +5,6 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 
-### 2024
-- Vancouver, Canada
-
 ### 2025
 - Burbank, California
 - Palm Springs, California
