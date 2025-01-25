@@ -3,6 +3,7 @@ A link farm of stuff I want to keep around for various reasons
 
 ## Planning and Strategic Concepts
 - [Cone of uncertainty](https://www.construx.com/books/the-cone-of-uncertainty/)
+- [Mental Models for Engineers and Managers](https://refactoring.fm/p/mental-models-for-engineers-and-managers)
 
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
@@ -13,6 +14,7 @@ A link farm of stuff I want to keep around for various reasons
 - [How Robinhood uses graph algorithms to prevent fraud](https://blog.quastor.org/p/how-robinhood-uses-graph-algorithms-to-prevent-fraud-297f)
 - [3L - Advice For Newly Hired Technical Leaders](https://blog.alexewerlof.com/p/3l?publication_id=1002265&post_id=142259629&isFreemail=true&r=6vml7&triedRedirect=true)
 - [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?publication_id=458709&post_id=144397424&isFreemail=true&r=6vml7&triedRedirect=true)
+- [Why Engineers Join Unnecessary Meetings](https://strategizeyourcareer.com/p/why-engineers-join-unnecessary-meetings)
 
   
 ## Writing
