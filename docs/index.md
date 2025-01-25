@@ -14,7 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
-* Started reading Cancel Culture by Jenny Morgan
+* Started reading Cancel Culture in Climate by Jenny Morgan
 * Started reading Infinite Jest by David Foster Wallace
 * Finished reading [We Need To Hang Out](archive/books/we-need-to-hang-out.md)
 * Finished re-reading [An Elegant Puzzle](archive/books/an-elegant-puzzle.md)
