@@ -2,7 +2,7 @@
 
 ## Active Books
 - Infinite Jest by David Foster Wallace
-- Cancel Culture by Jenny Morgan
+- Cancel Culture in Climate by Jenny Morgan
 
 ## Up Next
 - The Human Element by Loran Nordgren  
