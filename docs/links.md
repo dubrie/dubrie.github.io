@@ -4,6 +4,7 @@ A link farm of stuff I want to keep around for various reasons
 ## Planning and Strategic Concepts
 - [Cone of uncertainty](https://www.construx.com/books/the-cone-of-uncertainty/)
 - [Mental Models for Engineers and Managers](https://refactoring.fm/p/mental-models-for-engineers-and-managers)
+- [In Between Two Forces](https://artoftpm.substack.com/p/in-between-two-forces)
 
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
