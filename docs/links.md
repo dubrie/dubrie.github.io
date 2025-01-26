@@ -5,6 +5,7 @@ A link farm of stuff I want to keep around for various reasons
 - [Cone of uncertainty](https://www.construx.com/books/the-cone-of-uncertainty/)
 - [Mental Models for Engineers and Managers](https://refactoring.fm/p/mental-models-for-engineers-and-managers)
 - [In Between Two Forces](https://artoftpm.substack.com/p/in-between-two-forces)
+- [Your Business Value: Individual Costs vs Value](https://blog.alexewerlof.com/p/your-business-value)
 
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
