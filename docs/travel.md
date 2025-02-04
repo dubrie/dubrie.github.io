@@ -6,9 +6,11 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Burbank, California
 - Palm Springs, California
+- Burbank, California
+- Bend, Oregon
 - Ann Arbor, Michigan
+- Toronto, Ontario
 - Bend, Oregon
 - Denver, Colorado
 
