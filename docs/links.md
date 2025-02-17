@@ -18,7 +18,9 @@ A link farm of stuff I want to keep around for various reasons
 - [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?publication_id=458709&post_id=144397424&isFreemail=true&r=6vml7&triedRedirect=true)
 - [Why Engineers Join Unnecessary Meetings](https://strategizeyourcareer.com/p/why-engineers-join-unnecessary-meetings)
 
-  
+## Endurance & Longevity
+- [Brain Dump](https://checkenginelight.substack.com/p/brain-dump)
+
 ## Writing
 - [From Code to Words: How to Write Well for Software Engineers](https://strategizeyourcareer.com/p/from-code-to-words-how-to-write-well)
 
