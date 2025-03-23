@@ -1,7 +1,6 @@
 # Books
 
 ## Active Books
-- Infinite Jest by David Foster Wallace
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -44,6 +43,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [Infinite Jest](archive/books/infinite-jest.md) by David Foster Wallace 👎
 - [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md) by Jenny Morgan 👍
 - [We Need To Hang Out: A Memoir Of Making Friends](archive/books/we-need-to-hang-out.md) by Billy Baker
 - [An Elegant Puzzle: Systems of Engineering Management](archive/books/an-elegant-puzzle.md) by Will Larson 👍
