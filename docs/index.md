@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Stopped reading [Infinite Jest](archive/books/infinite-jest.md)
 * Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
 * Started reading Cancel Culture in Climate by Jenny Morgan
 * Started reading Infinite Jest by David Foster Wallace
@@ -23,4 +24,3 @@ A collection of various data around my public personna
 * Finished reading [Zen and the Art of Motorcycle Maintenance](archive/books/zen-and-the-art-of-motorcycle-maintenance.md)
 * Added a [LinkFarm](links.md) page
 * Won the [North Bend Trailfest Little Si 10k](running.md) 
-* Visited a new continent: [Oceania](travel.md)
