@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
 * Started reading Cancel Culture in Climate by Jenny Morgan
 * Started reading Infinite Jest by David Foster Wallace
 * Finished reading [We Need To Hang Out](archive/books/we-need-to-hang-out.md)
@@ -23,4 +24,3 @@ A collection of various data around my public personna
 * Added a [LinkFarm](links.md) page
 * Won the [North Bend Trailfest Little Si 10k](running.md) 
 * Visited a new continent: [Oceania](travel.md)
-* Ran the [Sydney Marathon](running.md)
