@@ -2,7 +2,6 @@
 
 ## Active Books
 - Infinite Jest by David Foster Wallace
-- Cancel Culture in Climate by Jenny Morgan
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -45,6 +44,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md) by Jenny Morgan 👍
 - [We Need To Hang Out: A Memoir Of Making Friends](archive/books/we-need-to-hang-out.md) by Billy Baker
 - [An Elegant Puzzle: Systems of Engineering Management](archive/books/an-elegant-puzzle.md) by Will Larson 👍
 - [Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness](archive/books/lincolns-melancholy.md) by Joshua Wolf Shenk 👍
