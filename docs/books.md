@@ -2,6 +2,8 @@
 
 ## Active Books
 
+- The Burnout Society by Byung-Chul Han
+
 ## Up Next
 - The Human Element by Loran Nordgren  
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
