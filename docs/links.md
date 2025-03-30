@@ -6,6 +6,7 @@ A link farm of stuff I want to keep around for various reasons
 - [Mental Models for Engineers and Managers](https://refactoring.fm/p/mental-models-for-engineers-and-managers)
 - [In Between Two Forces](https://artoftpm.substack.com/p/in-between-two-forces)
 - [Your Business Value: Individual Costs vs Value](https://blog.alexewerlof.com/p/your-business-value)
+- [My strategy to learn faster than anyone else: Copying from the best](https://strategizeyourcareer.com/p/my-strategy-to-learn-faster-than?publication_id=1974191&post_id=156585468)
 
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
@@ -17,6 +18,7 @@ A link farm of stuff I want to keep around for various reasons
 - [3L - Advice For Newly Hired Technical Leaders](https://blog.alexewerlof.com/p/3l?publication_id=1002265&post_id=142259629&isFreemail=true&r=6vml7&triedRedirect=true)
 - [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?publication_id=458709&post_id=144397424&isFreemail=true&r=6vml7&triedRedirect=true)
 - [Why Engineers Join Unnecessary Meetings](https://strategizeyourcareer.com/p/why-engineers-join-unnecessary-meetings)
+- [How to Invest in Engineers Growth](https://hybridhacker.email/p/how-to-invest-in-engineers-growth)
 
 ## Endurance & Longevity
 - [Brain Dump](https://checkenginelight.substack.com/p/brain-dump)
