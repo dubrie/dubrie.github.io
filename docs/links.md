@@ -7,6 +7,7 @@ A link farm of stuff I want to keep around for various reasons
 - [In Between Two Forces](https://artoftpm.substack.com/p/in-between-two-forces)
 - [Your Business Value: Individual Costs vs Value](https://blog.alexewerlof.com/p/your-business-value)
 - [My strategy to learn faster than anyone else: Copying from the best](https://strategizeyourcareer.com/p/my-strategy-to-learn-faster-than?publication_id=1974191&post_id=156585468)
+- [When You're Overloaded -- and Delegating Isn't an Option](https://hbr.org/2025/04/when-youre-overloaded-and-delegating-isnt-an-option)
 
 ## Engineering Articles
 - [How to use Engineering Metrics](https://hybridhacker.email/p/how-to-use-engineering-metrics)
