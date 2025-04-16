@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Started reading A Gentleman In Moscow
 * Started reading The Burnout Society
 * Stopped reading [Infinite Jest](archive/books/infinite-jest.md)
 * Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
