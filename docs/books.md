@@ -3,6 +3,7 @@
 ## Active Books
 
 - The Burnout Society by Byung-Chul Han
+- A Gentleman In Moscow by Amor Towles
 
 ## Up Next
 - The Human Element by Loran Nordgren  
