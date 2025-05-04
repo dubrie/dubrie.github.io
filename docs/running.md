@@ -46,6 +46,7 @@
   
 
 ## Half Marathons
+- [2025 Kirkland Half Marathon](https://runsignup.com/Race/Results/65022/IndividualResult/cKJz?resultSetId=547712#U35992128) - 1:21:17
 - [2023 My Better Half Marathon](https://runsignup.com/Race/Results/37523/IndividualResult/dDpt?resultSetId=366068#U35992128) - 1:16:08
 - [2022 Everett Half Marathon](https://results.raceroster.com/en-US/results/detail/9n9xhhmq9we5zrc6) - 1:16:23
 - **[2021 Cascade Express Half Marathon](https://runsignup.com/Race/Results/118945/IndividualResult/ZxYc?resultSetId=275138#U52758138) - 1:15:46^**
