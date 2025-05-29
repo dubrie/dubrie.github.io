@@ -24,6 +24,7 @@ A link farm of stuff I want to keep around for various reasons
 
 ## Endurance & Longevity
 - [Brain Dump](https://checkenginelight.substack.com/p/brain-dump)
+- [The Best Thing Ever Written About Work-Life Balance](https://austinkleon.com/2018/01/23/the-best-thing-ever-written-about-work-life-balance)
 
 ## Writing
 - [From Code to Words: How to Write Well for Software Engineers](https://strategizeyourcareer.com/p/from-code-to-words-how-to-write-well)
