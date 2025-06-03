@@ -6,11 +6,14 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Bend, Oregon
 - Ann Arbor, Michigan
 - Toronto, Ontario
 - Bend, Oregon
+- Sonoma, California
 - Denver, Colorado
+
+### 2026
+- Galapagos Islands
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
