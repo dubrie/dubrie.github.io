@@ -21,6 +21,8 @@ A link farm of stuff I want to keep around for various reasons
 - [Getting an Engineering Executive Job](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive?publication_id=458709&post_id=144397424&isFreemail=true&r=6vml7&triedRedirect=true)
 - [Why Engineers Join Unnecessary Meetings](https://strategizeyourcareer.com/p/why-engineers-join-unnecessary-meetings)
 - [How to Invest in Engineers Growth](https://hybridhacker.email/p/how-to-invest-in-engineers-growth)
+- [How to Avoid Massive Blows When Releasing New Features](https://dpereira.substack.com/p/how-to-avoid-massive-blows-when-releasing)
+- [Staff+ Self-Onboarding Questions](https://blog.alexewerlof.com/p/staff-self-onboarding-questions) 
 
 ## Endurance & Longevity
 - [Brain Dump](https://checkenginelight.substack.com/p/brain-dump)
