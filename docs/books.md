@@ -3,6 +3,7 @@
 ## Active Books
 
 - The Burnout Society by Byung-Chul Han
+- Stupid TV, Be More Funny by Alan Siegel
 
 ## Up Next
 - The Human Element by Loran Nordgren  
