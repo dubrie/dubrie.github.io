@@ -11,8 +11,10 @@ Trips in various stages of being booked and/or planned
 - Bend, Oregon
 - Sonoma, California
 - Denver, Colorado
+- Vancouver, Canada
 
 ### 2026
+- Carmel, Indiana
 - Galapagos Islands
 
 ## Continents Visited
