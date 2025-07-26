@@ -6,7 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Ann Arbor, Michigan
 - Toronto, Ontario
 - Bend, Oregon
 - Sonoma, California
