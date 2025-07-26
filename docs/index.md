@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
 * Started reading Stupid TV, Be More Funny
 * Finished reading [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md)
 * Finished the [Kirkland Half Marathon](running.md)
@@ -23,6 +24,5 @@ A collection of various data around my public personna
 * Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
 * Started reading Cancel Culture in Climate by Jenny Morgan
 * Started reading Infinite Jest by David Foster Wallace
-* Finished reading [We Need To Hang Out](archive/books/we-need-to-hang-out.md)
 
   
