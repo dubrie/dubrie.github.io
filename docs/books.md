@@ -3,7 +3,6 @@
 ## Active Books
 
 - The Burnout Society by Byung-Chul Han
-- Stupid TV, Be More Funny by Alan Siegel
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -46,6 +45,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md) by Alan Siegel 👍
 - [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md) by Amor Towles 👍
 - [Infinite Jest](archive/books/infinite-jest.md) by David Foster Wallace 👎
 - [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md) by Jenny Morgan 👍
