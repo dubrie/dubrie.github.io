@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Added [Measuring & Reducing Software Carbon Emissions with Read AI](thoughts.md) talk
 * Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
 * Started reading Stupid TV, Be More Funny
 * Finished reading [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md)
