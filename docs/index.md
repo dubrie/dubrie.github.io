@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Finished reading [The Burnout Society](archive/books/the-burnout-society.md)
 * Added [Measuring & Reducing Software Carbon Emissions with Read AI](thoughts.md) talk
 * Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
 * Started reading Stupid TV, Be More Funny
@@ -24,6 +25,5 @@ A collection of various data around my public personna
 * Stopped reading [Infinite Jest](archive/books/infinite-jest.md)
 * Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
 * Started reading Cancel Culture in Climate by Jenny Morgan
-* Started reading Infinite Jest by David Foster Wallace
 
   
