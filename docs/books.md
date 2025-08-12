@@ -2,7 +2,8 @@
 
 ## Active Books
 
-- The Burnout Society by Byung-Chul Han
+- Range: Why Generalists Triumph in a Specialized World by David Esptein
+
 
 ## Up Next
 - The Human Element by Loran Nordgren  
@@ -30,7 +31,6 @@
 - Overcomplicated
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Quiet: The Power of Introverts
-- Range: Why generalists triumph in a specialized world
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
 - Sapiens: A Brief History of Humankind
@@ -45,6 +45,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [The Burnout Society](archive/books/the-burnout-society.md) by Byung-Chul Han 👍
 - [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md) by Alan Siegel 👍
 - [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md) by Amor Towles 👍
 - [Infinite Jest](archive/books/infinite-jest.md) by David Foster Wallace 👎
