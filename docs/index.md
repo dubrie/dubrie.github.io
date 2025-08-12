@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
 * Started reading Range
 * Finished reading [The Burnout Society](archive/books/the-burnout-society.md)
 * Added [Measuring & Reducing Software Carbon Emissions with Read AI](thoughts.md) talk
