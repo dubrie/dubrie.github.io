@@ -6,13 +6,13 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Toronto, Ontario
 - Bend, Oregon
 - Sonoma, California
 - Denver, Colorado
 - Vancouver, Canada
 
 ### 2026
+- Rome, Italy
 - Carmel, Indiana
 - Galapagos Islands
 
