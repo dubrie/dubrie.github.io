@@ -10,7 +10,6 @@
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 - How to Measure Anything by Douglas W. Hubbard
 - Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
-- A Gentleman In Moscow by Amor Towles
 - Thinking in Systems by Donella Meadows
 - Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Debt: The First 5,000 Years by David Graeber
