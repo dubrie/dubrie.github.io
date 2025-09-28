@@ -12,11 +12,12 @@ Trips in various stages of being booked and/or planned
 - Vancouver, Canada
 
 ### 2026
-- Palm Springs, CA
+- New York City, NY
 - Rome, Italy
 - Carmel, Indiana
 - Sandy, Utah
 - Galapagos Islands
+
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
