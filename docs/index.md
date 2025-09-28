@@ -14,6 +14,8 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Started reading Chaos Kings
+* Finished reading [Range](archive/books/range.md)
 * Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
 * Started reading Range
 * Finished reading [The Burnout Society](archive/books/the-burnout-society.md)
@@ -23,8 +25,5 @@ A collection of various data around my public personna
 * Finished reading [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md)
 * Finished the [Kirkland Half Marathon](running.md)
 * Started reading A Gentleman In Moscow
-* Started reading The Burnout Society
-* Stopped reading [Infinite Jest](archive/books/infinite-jest.md)
-* Finished reading [Cancel Culture in Climate](archive/books/cancel-culture-in-climate.md)
-
+  
   
