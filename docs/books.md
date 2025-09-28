@@ -1,8 +1,8 @@
 # Books
 
 ## Active Books
+- Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis by Scott Patterson
 
-- Range: Why Generalists Triumph in a Specialized World by David Esptein
 
 
 ## Up Next
@@ -13,7 +13,7 @@
 - Thinking in Systems by Donella Meadows
 - Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Debt: The First 5,000 Years by David Graeber
-- Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis by Scott Patterson
+- Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
 
 
 ## Books To Read List
@@ -22,9 +22,13 @@
 - Being Mortal
 - But What If We're Wrong? 
 - The First 20 Hours
+- Four Thousand Weeks
 - Future Ethics
 - The Hunt for Vulcan
-- Mismatch: How Inclusion Shapes Design  
+- The Long Walk
+- Meditations for Mortals
+- Mismatch: How Inclusion Shapes Design
+- Napoleon's Buttons
 - The Organic Machine: The Remaking of the Columbia River
 - The Organized Mind
 - Overcomplicated
@@ -44,6 +48,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [Range: Why Generalists Triumph in a Specialized World](archive/books/range.md) by David Esptein 👍
 - [The Burnout Society](archive/books/the-burnout-society.md) by Byung-Chul Han 👍
 - [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md) by Alan Siegel 👍
 - [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md) by Amor Towles 👍
