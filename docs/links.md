@@ -29,6 +29,7 @@ A link farm of stuff I want to keep around for various reasons
 - [Brain Dump](https://checkenginelight.substack.com/p/brain-dump)
 - [The Best Thing Ever Written About Work-Life Balance](https://austinkleon.com/2018/01/23/the-best-thing-ever-written-about-work-life-balance)
 - [Why Sam Altman Gets 10x More Done Than You](https://strategizeyourcareer.com/p/why-sam-altman-gets-10x-more-done)
+- [F*ck it and Let it Rip](https://thegrowtheq.com/fck-it-and-let-it-rip/)
 
 ## Writing
 - [From Code to Words: How to Write Well for Software Engineers](https://strategizeyourcareer.com/p/from-code-to-words-how-to-write-well)
