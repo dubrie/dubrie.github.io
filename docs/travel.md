@@ -6,7 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Bend, Oregon
 - Sonoma, California
 - Denver, Colorado
 - Vancouver, Canada
@@ -17,6 +16,7 @@ Trips in various stages of being booked and/or planned
 - Carmel, Indiana
 - Sandy, Utah
 - Galapagos Islands
+- Denver, Colorado
 
 
 ## Continents Visited
