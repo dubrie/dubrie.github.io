@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Finished the [North Bend Skyline 30k](running.md) race
 * Started reading Chaos Kings
 * Finished reading [Range](archive/books/range.md)
 * Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
@@ -23,7 +24,5 @@ A collection of various data around my public personna
 * Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
 * Started reading Stupid TV, Be More Funny
 * Finished reading [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md)
-* Finished the [Kirkland Half Marathon](running.md)
-* Started reading A Gentleman In Moscow
-  
+* Finished the [Kirkland Half Marathon](running.md)  
   
