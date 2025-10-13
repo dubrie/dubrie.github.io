@@ -40,6 +40,7 @@
 
 ## 30ks
 
+- [2025 North Bend Skyline 30k](https://runsignup.com/Race/Results/172258#resultSetId-596370) - 4:10:53
 - **[2023 North Bend Skyline 30k](https://live.atlaslivetiming.com/Race/Detail/3c520cac-9d66-4a61-8191-106cee0d77aa) - 4:00:31**
 
 ## 15 miles
