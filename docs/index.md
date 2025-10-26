@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Won the [Captain Jack's Treasure Run 12k](running.md) race
 * Finished the [North Bend Skyline 30k](running.md) race
 * Started reading Chaos Kings
 * Finished reading [Range](archive/books/range.md)
@@ -24,5 +25,4 @@ A collection of various data around my public personna
 * Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
 * Started reading Stupid TV, Be More Funny
 * Finished reading [A Gentleman In Moscow](archive/books/a-gentleman-in-moscow.md)
-* Finished the [Kirkland Half Marathon](running.md)  
   
