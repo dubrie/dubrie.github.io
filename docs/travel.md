@@ -6,7 +6,7 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- Sonoma, California
+- San Juan Island, Washington
 - Denver, Colorado
 - Vancouver, Canada
 
