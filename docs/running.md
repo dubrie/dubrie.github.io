@@ -93,8 +93,8 @@
 
 ## 12ks
 
-- **[2021 12ks of Christmas](https://results.raceroster.com/en-US/results/detail/mrk4avt2nzasmq3c) - 43:13**
 - [2025 Captain Jack's Treasure Run](https://runsignup.com/Race/Results/38826/IndividualResult/hdhK?resultSetId=599533#U35992128) - 44:47^
+- **[2021 12ks of Christmas](https://results.raceroster.com/en-US/results/detail/mrk4avt2nzasmq3c) - 43:13**
 
 ## 10ks
 
