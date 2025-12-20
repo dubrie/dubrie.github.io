@@ -6,8 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2025
-- San Juan Island, Washington
-- Denver, Colorado
 - Vancouver, Canada
 
 ### 2026
