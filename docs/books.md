@@ -1,8 +1,7 @@
 # Books
 
 ## Active Books
-- Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis by Scott Patterson
-
+- The Manager's Path by Camille Fournier
 
 
 ## Up Next
@@ -48,6 +47,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2025
+- [Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis](archive/books/chaos-kings.md) by Scott Patterson
 - [Range: Why Generalists Triumph in a Specialized World](archive/books/range.md) by David Esptein 👍
 - [The Burnout Society](archive/books/the-burnout-society.md) by Byung-Chul Han 👍
 - [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md) by Alan Siegel 👍
@@ -188,3 +188,6 @@ Submit a pull request with any suggested books you think I should read as additi
 1. Begin Again by Eddie S. Glaude Jr.
 1. Parable of the Sower by Octavia Butler
 1. Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance by Alex Hutchinson
+
+
+
