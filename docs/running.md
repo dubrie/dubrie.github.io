@@ -50,6 +50,7 @@
   
 
 ## Half Marathons
+- [2026 Frost Eagle](https://www.webscorer.com/racedetails?raceid=418441&did=567310) - 1:34:04
 - [2025 Kirkland Half Marathon](https://runsignup.com/Race/Results/65022/IndividualResult/cKJz?resultSetId=547712#U35992128) - 1:21:17
 - [2023 My Better Half Marathon](https://runsignup.com/Race/Results/37523/IndividualResult/dDpt?resultSetId=366068#U35992128) - 1:16:08
 - [2022 Everett Half Marathon](https://results.raceroster.com/en-US/results/detail/9n9xhhmq9we5zrc6) - 1:16:23
