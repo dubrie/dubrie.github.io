@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Won the [Front Eagle Half Marathon](running.md) trail race
 * Stared reading The Manager's Path
 * Finished reading [Chaos Kings](archive/books/chaos-kings.md)
 * Won the [Captain Jack's Treasure Run 12k](running.md) race
