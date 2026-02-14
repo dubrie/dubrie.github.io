@@ -14,6 +14,8 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Finished reading [The Manager's Path](archive/books/the-managers-path.md)
+* Won the [My Better Half Marathon (Relay)](running.md) race
 * Won the [Front Eagle Half Marathon](running.md) trail race
 * Stared reading The Manager's Path
 * Finished reading [Chaos Kings](archive/books/chaos-kings.md)
@@ -24,6 +26,4 @@ A collection of various data around my public personna
 * Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
 * Started reading Range
 * Finished reading [The Burnout Society](archive/books/the-burnout-society.md)
-* Added [Measuring & Reducing Software Carbon Emissions with Read AI](thoughts.md) talk
-* Finished reading [Stupid TV, Be More Funny](archive/books/stupid-tv-be-more-funny.md)
   
