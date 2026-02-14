@@ -1,7 +1,7 @@
 # Books
 
 ## Active Books
-- The Manager's Path by Camille Fournier
+- Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
 
 
 ## Up Next
@@ -12,7 +12,6 @@
 - Thinking in Systems by Donella Meadows
 - Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Debt: The First 5,000 Years by David Graeber
-- Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
 
 
 ## Books To Read List
