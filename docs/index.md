@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Started reading Empire of AI
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
 * Won the [My Better Half Marathon (Relay)](running.md) race
 * Won the [Front Eagle Half Marathon](running.md) trail race
@@ -25,5 +26,4 @@ A collection of various data around my public personna
 * Finished reading [Range](archive/books/range.md)
 * Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
 * Started reading Range
-* Finished reading [The Burnout Society](archive/books/the-burnout-society.md)
   
