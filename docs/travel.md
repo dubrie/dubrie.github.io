@@ -5,9 +5,6 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 
-### 2025
-- Vancouver, Canada
-
 ### 2026
 - New York City, NY
 - Rome, Italy
