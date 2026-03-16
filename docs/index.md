@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* Started reading Thinking In Systems: A Primer
 * Started reading Empire of AI
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
 * Won the [My Better Half Marathon (Relay)](running.md) race

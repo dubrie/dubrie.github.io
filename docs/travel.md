@@ -6,8 +6,9 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- New York City, NY
+- Auburn, CA
 - Rome, Italy
+- Florence, Italy
 - Carmel, Indiana
 - Sandy, Utah
 - Galapagos Islands
