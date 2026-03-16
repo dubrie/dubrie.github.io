@@ -2,6 +2,7 @@
 
 ## Active Books
 - Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
+- Thinking In Systems: A Primer by Donella H. Meadows
 
 
 ## Up Next
@@ -9,7 +10,6 @@
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 - How to Measure Anything by Douglas W. Hubbard
 - Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
-- Thinking in Systems by Donella Meadows
 - Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Debt: The First 5,000 Years by David Graeber
 
@@ -44,6 +44,9 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ## Finished Books
+
+### 2026
+- [The Managers Path](archive/books/the-managers-path.md) by Camille Fournier 👍
 
 ### 2025
 - [Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis](archive/books/chaos-kings.md) by Scott Patterson
