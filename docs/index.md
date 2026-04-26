@@ -15,6 +15,7 @@ A collection of various data around my public personna
 
 ## Recent Updates
 * Finished the [Canyons 50k by UTMB](running.md) race
+* Finished reading [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md)
 * Started reading Thinking In Systems: A Primer
 * Started reading Empire of AI
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
@@ -26,6 +27,4 @@ A collection of various data around my public personna
 * Finished the [North Bend Skyline 30k](running.md) race
 * Started reading Chaos Kings
 * Finished reading [Range](archive/books/range.md)
-* Added [How Read AI Decreased Software Emissions By Up To 40%](thoughts.md) article
-* Started reading Range
   
