@@ -6,7 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Auburn, CA
 - Rome, Italy
 - Florence, Italy
 - Carmel, Indiana
