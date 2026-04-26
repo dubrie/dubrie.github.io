@@ -4,6 +4,7 @@
 - [2025 Smith Rock Classic](https://www.alpinerunning.co/src-50m) - DNF (dropped at 25 miles)
 
 ## 50ks
+- [2026 Canyons 50k by UTMB](https://live.utmb.world/canyons/2026/runners/2056) - 5:06:23
 - [2024 Orcas Island 50k](https://chronokeep.com/results/orcas-island-50k/2024/102) - 5:33:50
 - **[2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25**
 
