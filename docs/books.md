@@ -2,7 +2,6 @@
 
 ## Active Books
 - Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
-- Thinking In Systems: A Primer by Donella H. Meadows
 
 
 ## Up Next
@@ -46,6 +45,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ## Finished Books
 
 ### 2026
+- [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md) by Donella H. Meadows 👍
 - [The Managers Path](archive/books/the-managers-path.md) by Camille Fournier 👍
 
 ### 2025
