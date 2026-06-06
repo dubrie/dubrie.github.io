@@ -7,6 +7,8 @@ Trips in various stages of being booked and/or planned
 
 ### 2026
 - Sandy, Utah
+- Miami, FL
+- Quito, Ecuador
 - Galapagos Islands
 - Denver, Colorado
 
