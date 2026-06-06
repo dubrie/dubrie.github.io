@@ -6,9 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Rome, Italy
-- Florence, Italy
-- Carmel, Indiana
 - Sandy, Utah
 - Galapagos Islands
 - Denver, Colorado
@@ -35,6 +32,7 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 - Netherlands
 - Switzerland
 - United Kingdom
+- Vatican City
 
 ### Oceania
 - Australia
