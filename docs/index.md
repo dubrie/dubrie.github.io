@@ -14,6 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
+* FInished the [Speedgoat 30k by UTMB](running.md) race
 * Finished the [Canyons 50k by UTMB](running.md) race
 * Finished reading [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md)
 * Started reading Thinking In Systems: A Primer
@@ -26,5 +27,4 @@ A collection of various data around my public personna
 * Won the [Captain Jack's Treasure Run 12k](running.md) race
 * Finished the [North Bend Skyline 30k](running.md) race
 * Started reading Chaos Kings
-* Finished reading [Range](archive/books/range.md)
   
