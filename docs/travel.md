@@ -6,12 +6,14 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Sandy, Utah
+- Yamhill, OR
 - Miami, FL
 - Quito, Ecuador
 - Galapagos Islands
 - Denver, Colorado
 
+### 2027
+- Denver, Colorado
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
