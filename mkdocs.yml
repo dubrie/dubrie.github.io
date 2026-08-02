@@ -1,7 +1,7 @@
-site_name: dubrie.io
+site_name: dubrie.github.io
 site_url: https://dubrie.github.io
 site_author: dubrie
-site_description: A collection of various data around my public personna
+site_description: A collection of various data around my public persona
 
 theme:
   name: null
