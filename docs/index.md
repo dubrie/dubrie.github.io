@@ -1,6 +1,6 @@
 # Home
 
-A collection of various data around my public personna
+A collection of various data around my public persona
 
 * [Tenets](tenets.md) - How I'm living life
 * [Thoughts](thoughts.md) - Things I'm saying
@@ -14,7 +14,7 @@ A collection of various data around my public personna
 
 
 ## Recent Updates
-* FInished the [Speedgoat 30k by UTMB](running.md) race
+* Finished the [Speedgoat 30k by UTMB](running.md) race
 * Finished the [Canyons 50k by UTMB](running.md) race
 * Finished reading [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md)
 * Started reading Thinking In Systems: A Primer
@@ -22,7 +22,7 @@ A collection of various data around my public personna
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
 * Won the [My Better Half Marathon (Relay)](running.md) race
 * Won the [Front Eagle Half Marathon](running.md) trail race
-* Stared reading The Manager's Path
+* Started reading The Manager's Path
 * Finished reading [Chaos Kings](archive/books/chaos-kings.md)
 * Won the [Captain Jack's Treasure Run 12k](running.md) race
 * Finished the [North Bend Skyline 30k](running.md) race
