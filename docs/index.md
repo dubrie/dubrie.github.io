@@ -14,6 +14,7 @@ A collection of various data around my public persona
 
 
 ## Recent Updates
+* Started reading Trash!: A Garbageman's Story
 * Finished the [Speedgoat 30k by UTMB](running.md) race
 * Finished the [Canyons 50k by UTMB](running.md) race
 * Finished reading [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md)
@@ -26,5 +27,4 @@ A collection of various data around my public persona
 * Finished reading [Chaos Kings](archive/books/chaos-kings.md)
 * Won the [Captain Jack's Treasure Run 12k](running.md) race
 * Finished the [North Bend Skyline 30k](running.md) race
-* Started reading Chaos Kings
   
