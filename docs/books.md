@@ -2,6 +2,7 @@
 
 ## Active Books
 - Empire of AI: Dreams and Nightmares in Sam Altman's Open AI by Karen Hao
+- Trash!: A Garbageman's Story by Simon Pare-Poupart
 
 
 ## Up Next
