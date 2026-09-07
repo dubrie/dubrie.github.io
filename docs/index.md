@@ -14,6 +14,7 @@ A collection of various data around my public persona
 
 
 ## Recent Updates
+* Finished reading [Empire of AI](archive/books/empire-of-ai.md)
 * Started reading Trash!: A Garbageman's Story
 * Finished the [Speedgoat 30k by UTMB](running.md) race
 * Finished the [Canyons 50k by UTMB](running.md) race
