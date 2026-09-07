@@ -14,6 +14,7 @@ A collection of various data around my public persona
 
 
 ## Recent Updates
+* Finished reading [Empire of AI](archive/books/empire-of-ai.md)
 * Started reading Trash!: A Garbageman's Story
 * Finished the [Speedgoat 30k by UTMB](running.md) race
 * Finished the [Canyons 50k by UTMB](running.md) race
@@ -23,8 +24,5 @@ A collection of various data around my public persona
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
 * Won the [My Better Half Marathon (Relay)](running.md) race
 * Won the [Front Eagle Half Marathon](running.md) trail race
-* Started reading The Manager's Path
-* Finished reading [Chaos Kings](archive/books/chaos-kings.md)
-* Won the [Captain Jack's Treasure Run 12k](running.md) race
-* Finished the [North Bend Skyline 30k](running.md) race
+
   

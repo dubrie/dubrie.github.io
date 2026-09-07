@@ -6,10 +6,10 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Yamhill, OR
 - Miami, FL
 - Quito, Ecuador
 - Galapagos Islands
+- Santa Barbara, California
 - Denver, Colorado
 
 ### 2027
