@@ -14,15 +14,15 @@ A collection of various data around my public persona
 
 
 ## Recent Updates
-* Finished reading [Empire of AI](archive/books/empire-of-ai.md)
+* Finished the [North Bend Trailfest Skyline 30k](running.md) trail race
 * Started reading Trash!: A Garbageman's Story
-* Finished the [Speedgoat 30k by UTMB](running.md) race
-* Finished the [Canyons 50k by UTMB](running.md) race
+* Finished reading [Empire of AI](archive/books/empire-of-ai.md)
+* Finished the [Speedgoat 30k by UTMB](running.md) trail race
+* Finished the [Canyons 50k by UTMB](running.md) trail race
 * Finished reading [Thinking In Systems: A Primer](archive/books/thinking-in-systems.md)
 * Started reading Thinking In Systems: A Primer
 * Started reading Empire of AI
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
 * Won the [My Better Half Marathon (Relay)](running.md) race
-* Won the [Front Eagle Half Marathon](running.md) trail race
 
   
