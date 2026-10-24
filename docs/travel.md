@@ -6,9 +6,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Miami, FL
-- Quito, Ecuador
-- Galapagos Islands
 - Santa Barbara, California
 - Denver, Colorado
 
@@ -49,4 +46,4 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 
 ### South America
 - Chile
-
+- Ecuador
