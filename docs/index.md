@@ -14,6 +14,7 @@ A collection of various data around my public persona
 
 
 ## Recent Updates
+* Visited [Ecuador](travel.md)
 * Finished the [North Bend Trailfest Skyline 30k](running.md) trail race
 * Started reading Trash!: A Garbageman's Story
 * Finished reading [Empire of AI](archive/books/empire-of-ai.md)
@@ -23,6 +24,5 @@ A collection of various data around my public persona
 * Started reading Thinking In Systems: A Primer
 * Started reading Empire of AI
 * Finished reading [The Manager's Path](archive/books/the-managers-path.md)
-* Won the [My Better Half Marathon (Relay)](running.md) race
 
   
