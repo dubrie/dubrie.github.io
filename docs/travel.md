@@ -6,10 +6,12 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2026
-- Santa Barbara, California
 - Denver, Colorado
 
 ### 2027
+- Dolores, Colorado
+- Oahu, Hawaii
+- Santa Barbara, California
 - Denver, Colorado
 
 ## Continents Visited
